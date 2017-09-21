@@ -5,3 +5,7 @@ function saludo() {
 function despedida() {
     console.log('despedida');
 }
+
+function prueba() {
+    console.log('despedida');
+}
